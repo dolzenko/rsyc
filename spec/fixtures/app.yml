@@ -1,0 +1,8 @@
+test:
+  simple: "value"
+  nested:
+    scope: "name"
+    url: "http://test.host.com/path?a=1"
+
+other:
+  special: "value"
